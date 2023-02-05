@@ -1,5 +1,7 @@
 This is the *Chuck Norris Cipher Encoder* project I made myself.
 
+Chuck Norris Unary Code ... because Chuck Norris encrypts only with zeros.
+
 
 <p>Secret agents use encryption all the time. You know that everything can be encrypted as different characters. What about encryption that uses only one character and space? This method has a name — the Chuck Norris cipher. In this project, you will create a program that can encrypt any text into a sequence of zeros and spaces and decrypt this sequence into text.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/300?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/300</a>
 
